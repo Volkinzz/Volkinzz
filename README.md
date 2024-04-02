@@ -22,6 +22,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-PyCharm-0D1117?style=for-the-badge&logo=PyCharm&labelColor=0D1117)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-0D1117?style=for-the-badge&logo=unity&labelColor=0D1117)&nbsp;
+![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-0D1117?style=for-the-badge&logo=Roblox%20Studio&labelColor=0D1117)&nbsp;
  
 ### Other Knowledge:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
